@@ -28,6 +28,7 @@ pip install requests
 4. 在 **Request Headers** 中找到 `Cookie:` 一行，复制其完整内容
 
 ### 第二步：创建配置文件
+将`config.example.json`和`download_ppt.py`下载到本地
 
 复制 `config.example.json` 为 `config.json`，填写你的信息：
 
