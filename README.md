@@ -1,6 +1,6 @@
 # NJU LMS 课件批量下载工具
 
-适用于南京大学 TronClass 学习管理平台（lms.nju.edu.cn），可批量下载指定课程的所有课件附件（PPT、PDF 等）。
+适用于南京大学智慧南雍教学平台（lms.nju.edu.cn），可批量下载指定课程的所有课件附件（PPT、PDF 等）。
 
 ## 功能
 
