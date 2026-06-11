@@ -21,13 +21,16 @@ pip install requests
 ## 使用方法
 
 ### 第一步：获取 Cookie
-
-<video src="https://github.com/user-attachments/assets/d5a9b2c2-f392-4b2d-95c2-a72481095d38" controls width="100%"></video>
-
 1. 在浏览器中登录 [lms.nju.edu.cn](https://lms.nju.edu.cn)，进入目标课程页面
 2. 按 `F12` 打开开发者工具 → **Network（网络）** 标签
 3. 刷新页面，点击任意一条发往 `lms.nju.edu.cn` 的请求
 4. 在 **Request Headers** 中找到 `Cookie:` 一行，复制其完整内容
+
+示例如下
+
+<video src="https://github.com/user-attachments/assets/d5a9b2c2-f392-4b2d-95c2-a72481095d38" controls width="100%"></video>
+
+
 
 ### 第二步：创建配置文件
 将`config.example.json`和`download_ppt.py`下载到本地
