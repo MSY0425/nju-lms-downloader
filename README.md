@@ -23,7 +23,7 @@ pip install requests
 ### 第一步：获取 Cookie
 1. 在浏览器中登录 [lms.nju.edu.cn](https://lms.nju.edu.cn)，进入目标课程页面
 2. 按 `F12` 打开开发者工具 → **Network（网络）** 标签
-3. 刷新页面，点击任意一条发往 `lms.nju.edu.cn` 的请求
+3. 按`F5`刷新页面，点击任意一条发往 `lms.nju.edu.cn` 的请求
 4. 在 **Request Headers** 中找到 `Cookie:` 一行，复制其完整内容
 
 示例如下
