@@ -22,7 +22,7 @@ pip install requests
 
 ### 第一步：获取 Cookie
 
-<video src="https://github.com/MSY0425/nju-lms-downloader/releases/download/v1.0/get.cookie.mp4" controls width="100%"></video>
+<video src="get.cookie.mp4" controls width="100%"></video>
 
 1. 在浏览器中登录 [lms.nju.edu.cn](https://lms.nju.edu.cn)，进入目标课程页面
 2. 按 `F12` 打开开发者工具 → **Network（网络）** 标签
