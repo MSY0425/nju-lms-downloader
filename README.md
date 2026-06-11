@@ -1,6 +1,6 @@
 # NJU LMS 课件批量下载工具
 
-适用于南京大学智慧南雍教学平台（lms.nju.edu.cn），可批量下载指定课程的所有课件附件（PPT、PDF 等）。
+适用于南京大学智慧南雍教学平台（lms.nju.edu.cn），可批量下载指定课程的所有课件附件（PPT、PDF 等），并且无论老师是否开放下载权限都可以下载(这是可以说的吗)。
 
 ## 功能
 
@@ -22,7 +22,7 @@ pip install requests
 
 ### 第一步：获取 Cookie
 
-<video src="get.cookie.mp4" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/d5a9b2c2-f392-4b2d-95c2-a72481095d38" controls width="100%"></video>
 
 1. 在浏览器中登录 [lms.nju.edu.cn](https://lms.nju.edu.cn)，进入目标课程页面
 2. 按 `F12` 打开开发者工具 → **Network（网络）** 标签
